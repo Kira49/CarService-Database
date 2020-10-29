@@ -43,9 +43,9 @@ Enter a number depending on what you want to query, like
 ```console
 Enter choice> 2
 ```
-Terminal will now promtp your input depending on your query
+Terminal will now prompt your input depending on your query
 
 ```console
-Enter deatils:
+Enter details:
 Type ID:
 ```
